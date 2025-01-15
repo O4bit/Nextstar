@@ -1,2 +1,2 @@
 # Nextstar
-The next best OS that dosen't collect your data
+The next best OS that doesn't collect your data
